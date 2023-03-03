@@ -193,9 +193,9 @@ namespace ATMSystem
                     Console.WriteLine($"{Card} is invalid option");
                     goto CardNo;
             }
-        Gender: Console.WriteLine("Do you want to edit Gender(Y / N)");
+        Gender: Console.WriteLine("Do you want to edit CardNo (Y / N)");
             string Input = Console.ReadLine();
-            switch (Input.ToUpper())
+            switch (Card.ToUpper())
             {
                 case "Y":
                     user.Gender = Gender();

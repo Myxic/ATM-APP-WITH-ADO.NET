@@ -159,7 +159,8 @@ namespace Language
 
         public async Task ChangePin(User user)
         {
-            start: Console.Write(($"Enter your Current Card Pin\n ====> "));
+        start:
+            Console.Write(($"Enter your Current Card Pin\n ====> "));
             string Pin = Console.ReadLine();
             switch (await login.CheckPin(Pin, user.Card_No))
             {
@@ -167,8 +168,8 @@ namespace Language
                 case true:
                     try
                     { 
-                         Console.Write(($"Enter your New Card Pin\n ====> "));
-                         string NewPin = Console.ReadLine();
+                         Console.Write(($"New Card Pin\n"));
+                         string NewPin = InputFormat.PinNo(); ;
                     
                         switch(await Operation.UpdatePinCode(user, NewPin))
                         {
