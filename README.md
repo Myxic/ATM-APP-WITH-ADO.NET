@@ -1,4 +1,4 @@
-# Sample-ATM-with-DB
+# ATM with DB using ADO.NET
 ## About
 * This project is an Atm sample with at least ninty-five users registred into the database with ten admin users, In this project there are two types of users that is the Admin user and the Customer user, there is also three language options avalible too
 ## Function
