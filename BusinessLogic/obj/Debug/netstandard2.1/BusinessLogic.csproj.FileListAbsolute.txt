@@ -1,0 +1,13 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/bin/Debug/netstandard2.1/BusinessLogic.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/bin/Debug/netstandard2.1/BusinessLogic.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/bin/Debug/netstandard2.1/BusinessLogic.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/bin/Debug/netstandard2.1/Data Layer.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/bin/Debug/netstandard2.1/Data Layer.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.csproj.CopyComplete
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/obj/Debug/netstandard2.1/BusinessLogic.pdb

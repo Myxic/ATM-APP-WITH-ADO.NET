@@ -1,0 +1,10 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/bin/Debug/netstandard2.1/Data Layer.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/bin/Debug/netstandard2.1/Data Layer.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/bin/Debug/netstandard2.1/Data Layer.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/obj/Debug/netstandard2.1/Data Layer.pdb
