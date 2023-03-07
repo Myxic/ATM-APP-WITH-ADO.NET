@@ -2036,8 +2036,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BusinessLogic >= 1.0.0",
-      "Data Layer >= 1.0.0"
+      "BusinessLogic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2068,9 +2067,6 @@
           "projectReferences": {
             "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/BusinessLogic.csproj": {
               "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/BusinessLogic/BusinessLogic.csproj"
-            },
-            "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/Data Layer.csproj": {
-              "projectPath": "/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ATM APP WITH ADO.NET/Data Layer/Data Layer.csproj"
             }
           }
         }

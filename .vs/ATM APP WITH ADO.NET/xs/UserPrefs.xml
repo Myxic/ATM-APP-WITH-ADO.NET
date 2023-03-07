@@ -1,25 +1,44 @@
 ﻿<Properties StartupConfiguration="{3902CCEB-19F6-48B4-A9B7-95569426FBB7}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Data_220Layer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BusinessLogic FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data Layer/AtmDBContext.cs">
     <Files>
-      <File FileName="Presentation/Program.cs" Line="26" Column="2" />
-      <File FileName="Presentation/MenuClass.cs" Line="1" Column="1" />
-      <File FileName="Data Layer/DataBaseCRUD.cs" Line="1" Column="1" />
+      <File FileName="Presentation/Program.cs" />
+      <File FileName="Presentation/MenuClass.cs" />
+      <File FileName="Data Layer/DataBaseCRUD.cs" />
+      <File FileName="BusinessLogic/Language/English Impentation.cs" Line="171" Column="57" />
+      <File FileName="BusinessLogic/AtmOperations/AdminOperation.cs" />
+      <File FileName="BusinessLogic/AtmOperations/AuthenticationOperation.cs" />
+      <File FileName="Data Layer/IAtmDBServies.cs" />
+      <File FileName="Data Layer/Model/Admin.cs" />
+      <File FileName="BusinessLogic/AtmOperations/InputFormat.cs" />
+      <File FileName="Data Layer/AtmDBContext.cs" Line="22" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ATM APP WITH ADO.NET" expanded="True" selected="True" />
+          <Node name="ATM APP WITH ADO.NET" expanded="True">
+            <Node name="BusinessLogic" expanded="True">
+              <Node name="AtmOperations" expanded="True" />
+              <Node name="Language" expanded="True" />
+            </Node>
+            <Node name="Data Layer" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="AtmDBContext.cs" selected="True" />
+            </Node>
+            <Node name="Presentation" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="ATM APP WITH ADO.NET" expanded="True" />
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
